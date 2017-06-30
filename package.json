@@ -11,5 +11,13 @@
   "devDependencies": {
     "ava": "^0.20.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EirikBirkeland/has-own-properties.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EirikBirkeland/has-own-properties/issues"
+  },
+  "homepage": "https://github.com/EirikBirkeland/has-own-properties#readme"
 }
