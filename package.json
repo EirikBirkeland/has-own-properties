@@ -1,6 +1,6 @@
 {
   "name": "has-own-properties",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Extends Object with .hasOwnProperties, which takes an array instead of just a single key.",
   "main": "index.js",
   "scripts": {
