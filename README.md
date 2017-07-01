@@ -4,7 +4,7 @@ Returns boolean `true` if all specified properties are found.
 
 Usage:
 
-``` js
+```js
 const dog = {tail: 1, fur: 1}
 
 console.log(
@@ -15,7 +15,7 @@ console.log(
 
 Alternative(s) to using this library:
 
-``` js
+```js
 const dog = {tail: 1, fur: 1}
 
 console.log(
