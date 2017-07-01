@@ -2,7 +2,7 @@ Extends Object with .hasOwnProperties – an array version of .hasOwnProperty.
 
 Returns boolean `true` if all specified properties are found.
 
-Usage:
+## Usage:
 
 ```js
 const dog = {tail: 1, fur: 1}
@@ -13,7 +13,7 @@ console.log(
 // true
 ```
 
-Alternative(s) to using this library:
+## Alternative(s) to using this library:
 
 ```js
 const dog = {tail: 1, fur: 1}
