@@ -10,4 +10,16 @@ const dog = {tail: 1, fur: 1}
 console.log(
     dog.hasOwnProperties(['tail', 'fur'])
 )
+// true
+```
+
+Alternative(s) to using this library:
+
+``` js
+const dog = {tail: 1, fur: 1}
+
+console.log(
+    ['tail', 'fur'].every(ele=>dog.hasOwnProperty(ele))
+)
+// true
 ```
