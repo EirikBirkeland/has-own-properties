@@ -12,3 +12,7 @@ const object = {a: 1, b: 1}
 test('properties should be present', t => {
     t.is(true, object.hasOwnProperties(['a', 'b']))
 })
+
+test('should work with single string argument as well', t => {
+    t.is(true, object.hasOwnProperties('b'))
+})

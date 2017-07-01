@@ -1,11 +1,13 @@
 Extends Object with .hasOwnProperties – an array version of .hasOwnProperty.
 
+Returns boolean `true` if all specified properties are found.
+
 Usage:
 
 ``` js
-const myObject = {happyKey: 1, sadKey: 1}
+const dog = {tail: 1, fur: 1}
 
 console.log(
-    myObject.hasOwnProperties(['happyKey', 'sadKey'])
+    dog.hasOwnProperties(['tail', 'fur'])
 )
 ```
