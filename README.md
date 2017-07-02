@@ -1,6 +1,6 @@
 Extends Object with .hasOwnProperties – an array version of .hasOwnProperty.
 
-Returns boolean `true` if all specified properties are found.
+Returns boolean `true` if every specified property is found.
 
 ## Usage:
 
@@ -23,3 +23,5 @@ console.log(
 )
 // true
 ```
+
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)

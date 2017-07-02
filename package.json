@@ -4,7 +4,7 @@
   "description": "Extends Object with .hasOwnProperties, which takes an array instead of just a single key.",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "standard && ava"
   },
   "author": "Eirik Birkeland",
   "license": "MIT",
