@@ -9,7 +9,7 @@
   "author": "Eirik Birkeland",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.20.0"
+    "ava": "^0.24.0"
   },
   "dependencies": {},
   "repository": {
