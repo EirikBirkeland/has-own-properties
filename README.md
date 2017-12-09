@@ -4,6 +4,8 @@ Returns boolean `true` if every specified property is found.
 
 ## Usage:
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EirikBirkeland/has-own-properties.svg)](https://greenkeeper.io/)
+
 ```js
 const dog = {tail: 1, fur: 1}
 
